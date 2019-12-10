@@ -9,7 +9,7 @@ Bug或申请开新的镜像请提`issue`
 
 ## 申请新镜像
 
-你可以通过提交 Issue 的方式建议 CQUPT miroors 为某个开源项目进行镜像。
+你可以通过提交 Issue 的方式建议 CQUPT mirrors 为某个开源项目进行镜像。
 
 请在申请内容中写明：
 - 项目名称
